@@ -1,1 +1,1 @@
-docker build -t server image-httpd/
+docker build -t server image-express/
