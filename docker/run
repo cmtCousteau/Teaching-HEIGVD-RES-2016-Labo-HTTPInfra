@@ -1,1 +1,3 @@
-docker run -p 3000:3000 server
+docker run -d server
+docker run -d express
+docker run -pd 8080:80 reverse
